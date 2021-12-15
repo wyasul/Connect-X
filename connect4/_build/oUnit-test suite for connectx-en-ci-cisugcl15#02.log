@@ -1,0 +1,72 @@
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:1:A vertical connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:1:A vertical connect 5 with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:1:A vertical connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:4:A left-diagonal connect 5 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:4:A left-diagonal connect 5 with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:4:A left-diagonal connect 5 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:7:A connect 5 right-diagonally with Blue (c1).
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:7:A connect 5 right-diagonally with Blue (c1) is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:7:A connect 5 right-diagonally with Blue (c1).
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:9:A vertical connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:9:A vertical connect 4 with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:9:A vertical connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:11:No horizontal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:11:No horizontal connect 4s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:11:No horizontal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:13:No left-diagonal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:13:No left-diagonal connect 4s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:13:No left-diagonal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:15:A connect 4 right-diagonally with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:15:A connect 4 right-diagonally with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:15:A connect 4 right-diagonally with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:18:A horizontal connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:18:A horizontal connect 5 with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:18:A horizontal connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:20:A left-diagonal connect 5 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:20:A left-diagonal connect 5 with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:20:A left-diagonal connect 5 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:22:No right-diagonal connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:22:No right-diagonal connect 5 with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:22:No right-diagonal connect 5 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:25:A vertical connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:25:A vertical connect 4 with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:25:A vertical connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:27:No horizontal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:27:No horizontal connect 4s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:27:No horizontal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:29:No left-diagonal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:29:No left-diagonal connect 4s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:29:No left-diagonal connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:32:Vertical connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:32:Vertical connect 4s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:32:Vertical connect 4s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:34:A horizontal connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:34:A horizontal connect 4 with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:34:A horizontal connect 4 with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:35:No horizontal connect 4s with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:35:No horizontal connect 4s with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:35:No horizontal connect 4s with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:38:No connect 4 right-diagonally with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:38:No connect 4 right-diagonally with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:38:No connect 4 right-diagonally with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:41:vertical connect 6 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:41:vertical connect 6 with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:41:vertical connect 6 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:44:No left-diagonal connect 6 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:44:No left-diagonal connect 6 with Red is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:44:No left-diagonal connect 6 with Red.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:46:No connect 6 right-diagonally with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:46:No connect 6 right-diagonally with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:46:No connect 6 right-diagonally with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:48:No vertical connect 2s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:48:No vertical connect 2s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:48:No vertical connect 2s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:51:No horizontal connect 2s with blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:51:No horizontal connect 2s with blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:51:No horizontal connect 2s with blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:53:No left-diagonal connect 6s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:53:No left-diagonal connect 6s with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:53:No left-diagonal connect 6s with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Start test test suite for connectx:54:Connect 2 right-diagonally with Blue.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: Test test suite for connectx:54:Connect 2 right-diagonally with Blue is successful.
+2020-12-21T04:16:08+00:00 en-ci-cisugcl15#02 I: End test test suite for connectx:54:Connect 2 right-diagonally with Blue.

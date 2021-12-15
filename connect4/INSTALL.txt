@@ -1,0 +1,8 @@
+Download zip file and unzip it, then run make play. This will prompt you for
+some values such as columns and rows to play with, your name, and another
+player's name. Right now, we have only implemented two player games (the
+idea is that you pass the computer to the other person for each turn).
+Once all the data for a game is gathered, it will run the basic game. It will
+ask one player to place a chip in a column, then the next player to do so as
+well, going back and forth until someone gets "x" in a row either vertically,
+diagonally, or horizontally. The game will end once someone wins.
